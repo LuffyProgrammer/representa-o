@@ -2,7 +2,7 @@
 
 ### Objeto Planeta
 
-| Campo | Valor |
+| tabela | Valor |
 |-------|--------|
 | id                        | Identificador único do objeto |
 | name                      | Nome do Planeta  |
